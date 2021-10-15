@@ -1,5 +1,5 @@
 {
-    "name": "indiana-university/php-gravityzone-api",
+    "name": "tenajsystems/php-gravityzone-api",
     "description": "A library to interact with the BitDefender GravityZone REST API",
     "type": "library",
     "license": "BSD-3-Clause",
@@ -13,7 +13,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "IndianaUniversity\\GravityZone\\": "src/"
+            "TenajSystems\\GravityZone\\": "src/"
         }
     },
     "authors": [
