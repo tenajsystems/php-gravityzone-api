@@ -7,11 +7,11 @@
 
 declare(strict_types=1);
 
-namespace IndianaUniversity\GravityZone;
+namespace TenajSystems\GravityZone;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\HandlerStack;
-use IndianaUniversity\GravityZone\Traits\{
+use TenajSystems\GravityZone\Traits\{
     AccountsTrait,
     GeneralTrait,
     NetworkTrait,
