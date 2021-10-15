@@ -7,7 +7,7 @@
 
 declare(strict_types=1);
 
-namespace IndianaUniversity\GravityZone\Traits;
+namespace TenajSystems\GravityZone\Traits;
 
 use Datto\JsonRpc\Client;
 use Datto\JsonRpc\Exceptions\ArgumentException;
